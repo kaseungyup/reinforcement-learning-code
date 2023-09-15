@@ -1,1 +1,1 @@
-# reinforment-learning-code
+# reinforcement-learning-code
